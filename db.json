@@ -1,40 +1,46 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
+      "name": "yogurt",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": false,
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Pomegranate",
+      "name": "pomegranate",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": true,
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Lettuce",
+      "name": "lettuce",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "String Cheese",
+      "name": "milk",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": false,
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
-      "name": "Cookies",
+      "name": "cake",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 5
+    },
+    {
+      "name": "gulabjamun",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 6
+    },
+    {
+      "name": "spinach",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
     }
   ]
 }
